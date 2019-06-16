@@ -1,0 +1,4 @@
+Time	Node	AppId	InterestName	Event	Info
+0	0	0	/myprefix/file1.img	DownloadStarted	NoInfo
+0	1	0	/myprefix/file1.img	DownloadStarted	NoInfo
+0	2	0	/myprefix/file1.img	DownloadStarted	NoInfo
